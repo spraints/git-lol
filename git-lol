@@ -3,6 +3,7 @@
 case $1 in
   blame)
     open http://dl.dropbox.com/u/10974355/blame.jpg
+    sleep 2
     ;;
 esac
 
