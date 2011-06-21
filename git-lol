@@ -1,0 +1,9 @@
+#!/bin/sh
+
+case $1 in
+  blame)
+    open http://dl.dropbox.com/u/10974355/blame.jpg
+    ;;
+esac
+
+exec git $*
