@@ -1,4 +1,4 @@
-git-lol adds some commentary to git.
+git-lol is a wrapper for git.
 
 Installation
 ------------
@@ -11,4 +11,3 @@ Use
 ---
 
     git lol blame some-rev some-file
-
