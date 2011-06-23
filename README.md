@@ -11,3 +11,14 @@ Use
 ---
 
     git lol blame some-rev some-file
+
+Credits
+-------
+
+The ascii art is from http://www.xmission.com/~emailbox/ascii_cats.htm
+
+License
+-------
+
+Really? I'm going to put a license on this? Do whatever you want.
+This copy is (c) Matt Burke, 2011

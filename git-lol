@@ -1,10 +1,11 @@
 #!/bin/sh
 
-case $1 in
-  blame)
-    open http://dl.dropbox.com/u/10974355/blame.jpg
-    sleep 2
-    ;;
-esac
 
+kitteh=$0-$1
+if [ -f $kitteh ]
+then
+  clear
+  cat $kitteh
+  sleep 5
+fi
 exec git $*
