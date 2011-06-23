@@ -4,7 +4,6 @@
 kitteh=$0-$1
 if [ -f $kitteh ]
 then
-  clear
   cat $kitteh
   sleep 5
 fi
